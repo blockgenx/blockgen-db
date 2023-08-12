@@ -1,4 +1,4 @@
-module github.com/blockgen/blockgen-db
+module github.com/blockgenx/blockgen-db
 
 go 1.19
 
